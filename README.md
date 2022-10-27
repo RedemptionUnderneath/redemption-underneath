@@ -6,7 +6,7 @@
 
 The Redemption Underneath obtains the information you provide when you download and register the Redemption Underneath. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Game unless you register with us.
 
-When you register with us and use the Redemption Underneath, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Game, and; (e) information you enter into our system when using the Game, such as contact information and project management information.
+When you register with us and use the Redemption Underneath, you generally provide (a) your name, email address, age, username, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Game, and; (e) information you enter into our system when using the Game, such as contact information and project management information.
 
 We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
 
