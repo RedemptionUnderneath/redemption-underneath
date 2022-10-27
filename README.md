@@ -12,7 +12,7 @@ We may also use the information you provided us to contact your from time to tim
 
 ### Automatically Collected Information
 
-In addition, the Game may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Game. 
+In addition, the Game may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, and information about the way you use the Game. 
  
  ## Does the Game collect precise real time location information of the device?
  
